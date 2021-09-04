@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.agenda.controllers"},{"l":"com.agenda.models"},{"l":"com.agenda.models.dao"},{"l":"com.agenda.models.dto"},{"l":"com.agenda.models.entity"}];updateSearchResults();

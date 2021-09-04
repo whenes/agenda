@@ -1,0 +1,5 @@
+com.agenda.controllers
+com.agenda.models
+com.agenda.models.dao
+com.agenda.models.dto
+com.agenda.models.entity
